@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cloudkitas - I ma software engineer, full stack developer... programming geek - interested in blockchain, devops, cloud computing, DApps, automation  
+- 👋 Hi, I’m @cloudkitas - I ma software engineer, full stack developer... building the future now 
 
 <!---
 cloudkitas/cloudkitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
