@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cloudkitas - I ma software engineer, full stack developer... building the future now 
+- 👋 Hi, I’m @cloudkitas - I'm a software engineer, automation wizard, and i like to build and break systems.
 
 <!---
 cloudkitas/cloudkitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
